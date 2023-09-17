@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Local configuration file (if you're using a different config, adjust accordingly)
+instance/
+
+# Environment variables file
+.env
+
+# Python virtual environment
+venv/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Package directories
+*.egg-info/
+dist/
+
+# Database files
+*.sqlite3
+
+# Translations
+*.mo
+*.pot
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+
+# Flask debugging files
+instance/
+
+# Environment variables
+.env
+
+# Docker Compose file
+docker-compose.yml
